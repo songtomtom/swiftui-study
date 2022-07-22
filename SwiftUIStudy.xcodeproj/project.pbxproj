@@ -10,6 +10,7 @@
 		BE4EB071925DB4C23BD5871B /* CircleImage.swift in Sources */ = {isa = PBXBuildFile; fileRef = BE4EB169F49C64756745B953 /* CircleImage.swift */; };
 		BE4EB312C703052ACA31A74E /* SwiftUIStudyUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = BE4EB077F4D7A55A8D085E8A /* SwiftUIStudyUITests.swift */; };
 		BE4EB418E3773344AE4F0678 /* SwiftUIStudyApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = BE4EB208D17F5F83BCA8C29F /* SwiftUIStudyApp.swift */; };
+		BE4EB5A03D2B35FB8C41A74D /* turtlerock.png in Resources */ = {isa = PBXBuildFile; fileRef = BE4EB462601B2E5D07DF1CAE /* turtlerock.png */; };
 		BE4EB5CE6D47B7D7D5A4A9D0 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = BE4EBAF23CF8A4D083BB885D /* Assets.xcassets */; };
 		BE4EB66BAD1300C00ED6316B /* SwiftUIStudyUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = BE4EBF517BCC2DCA21AD1651 /* SwiftUIStudyUITestsLaunchTests.swift */; };
 		BE4EB6E7996DA44499943247 /* MapView.swift in Sources */ = {isa = PBXBuildFile; fileRef = BE4EB8D8B11C295952F7E6D0 /* MapView.swift */; };
@@ -39,6 +40,7 @@
 		BE4EB077F4D7A55A8D085E8A /* SwiftUIStudyUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwiftUIStudyUITests.swift; sourceTree = "<group>"; };
 		BE4EB169F49C64756745B953 /* CircleImage.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CircleImage.swift; sourceTree = "<group>"; };
 		BE4EB208D17F5F83BCA8C29F /* SwiftUIStudyApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwiftUIStudyApp.swift; sourceTree = "<group>"; };
+		BE4EB462601B2E5D07DF1CAE /* turtlerock.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = turtlerock.png; sourceTree = "<group>"; };
 		BE4EB4E7CAAF32121DC391F6 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		BE4EB532B04C76A2FA75564E /* SwiftUIStudyTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwiftUIStudyTests.swift; sourceTree = "<group>"; };
 		BE4EB8CCB792D08983BFDC01 /* SwiftUIStudyTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = SwiftUIStudyTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -92,6 +94,7 @@
 				BE4EB922AF29D187EB29CFBA /* ContentView.swift */,
 				BE4EB8D8B11C295952F7E6D0 /* MapView.swift */,
 				BE4EB169F49C64756745B953 /* CircleImage.swift */,
+				BE4EB462601B2E5D07DF1CAE /* turtlerock.png */,
 			);
 			path = SwiftUIStudy;
 			sourceTree = "<group>";
@@ -220,6 +223,7 @@
 			files = (
 				BE4EB5CE6D47B7D7D5A4A9D0 /* Assets.xcassets in Resources */,
 				BE4EBCDEE2995284CA83299A /* Preview Assets.xcassets in Resources */,
+				BE4EB5A03D2B35FB8C41A74D /* turtlerock.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

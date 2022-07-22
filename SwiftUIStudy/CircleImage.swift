@@ -6,7 +6,7 @@ import SwiftUI
 
 struct CircleImage: View {
     var body: some View {
-        Image("turtlerock") // 이미지
+        Image(uiImage: UIImage(imageLiteralResourceName: "turtlerock")) // 이미지
                 .clipShape(Circle()) // 원형으로 만들겠다
     }
 }
